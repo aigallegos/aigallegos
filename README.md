@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ## Education
 
+- Master of Computer Science, University of Illinois Urbana-Champaign: January 2024 - Present
 - Bachelor of Science in Computer Science with Honors, University of Illinois Urbana-Champaign: Graduated May 2023
 - Associate in Engineering Science, Wilbur Wright College: Graduated May 2021
 
